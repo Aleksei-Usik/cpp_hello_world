@@ -1,1 +1,1 @@
-echo "deploy Nuclear"
+echo "deploy Nuclear test"
