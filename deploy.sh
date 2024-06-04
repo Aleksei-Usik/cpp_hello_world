@@ -1,1 +1,1 @@
-echo "Noviy deploy"
+echo "TEST"
